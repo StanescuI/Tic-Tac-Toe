@@ -1,0 +1,13 @@
+button {
+    width: 100px;
+    height: 100px;
+    vertical-align: top;
+    font-size: 40px;
+}
+p {
+    font-size: 40px;
+}
+#rematch {
+    width: 150px;
+    height: 150px;
+}
